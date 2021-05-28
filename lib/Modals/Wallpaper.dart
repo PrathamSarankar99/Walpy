@@ -1,0 +1,1 @@
+enum WallpaperLocation { homescreen, lockscreen }
